@@ -1,0 +1,36 @@
+{
+  "tokenStandard": "nft",
+  "number": 10000,
+  "symbol": "FOX",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": true,
+  "creators": [
+    {
+      "address": "EuNVySuyeL97YrLUZYTEJPx5soJQZ3hAnW94yrvLogkY",
+      "share": 60
+    },
+    {
+      "address": "DnzdyKpZ9GxTsEgVui1hjFVvLFgGSq1mQaA23utb1Nod",
+      "share": 15
+    },
+    {
+      "address": "GZAa7gWUozVdthWDMonQvVMN1fxvE2pR2sP3DuoEKP7z",
+      "share": 25
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": {
+    "name": "FOX",
+    "uri": "https://arweave.net/ldoYaGSj6Wwl1qX8oKwyGlG27rN4Bg-i8788TfjZGtE",
+    "hash": "EBxUCk1rsce9mWeoHSaNgJLgewY8ZRy7"
+  },
+  "guards": null,
+  "maxEditionSupply": null
+}

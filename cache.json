@@ -1,0 +1,146 @@
+{
+  "program": {
+    "candyMachine": "5coUrDsGsRBo6aM2DCQ4rqkKAb3w9cfTaiU2bBbyqU69",
+    "candyGuard": "",
+    "candyMachineCreator": "Ft8GKcZqB5wS6bYsZPekA52jUpAvhBeoG3TmtwjtEZFz",
+    "collectionMint": "8eA3e1kTNdV33fuf2SLM6bC36Mzi8ZqPo4qQbAnHh2Bm"
+  },
+  "items": {
+    "-1": {
+      "name": "FOX",
+      "image_hash": "2260e2f01fc7eae1a9180969d24e6f8afd72a5f6625d176ebfc2f2231d678d41",
+      "image_link": "https://gateway.irys.xyz/woCXCi7K7oZuhPf6UHhU2Hzh1bQJH1xiWDotXy9dD2P?ext=png",
+      "metadata_hash": "e59b2de8386cea0dee7260c419e482e649df10a93b7946c0243e3755b084daf1",
+      "metadata_link": "https://gateway.irys.xyz/GncrA28ygF8VJiHiDrSgk5LaPNJFuPjZDgzd9QFTdC4r",
+      "onChain": true
+    },
+    "0": {
+      "name": "FOX #0",
+      "image_hash": "3dc0e90a8e67c3b3cbfb57af37bf02908a52ecdffabb611931b9b92cb6d5f9c6",
+      "image_link": "https://gateway.irys.xyz/DzbdeZiUpXqkPCnME114NiGk3r3rRTQqWhCRUgtpJEb6?ext=png",
+      "metadata_hash": "cb5e02070b9c9e5184348c5b705b43abad08bfb46fcc99b0c161d2039c3e0d49",
+      "metadata_link": "https://gateway.irys.xyz/DQ3v3FsUFkMCGzznFUEsoAn8Ebi82jLbjsxzEtG62ZJ4",
+      "onChain": false
+    },
+    "1": {
+      "name": "FOX #1",
+      "image_hash": "1d1b54d2d8a732a11f3fb3985e429fa9aaa0442f3a9ba866c9ead915f05eed10",
+      "image_link": "https://gateway.irys.xyz/5SZGeptvcDzvh29nCe3CanKP7n2NWtGt5MPkNkpHzSRK?ext=png",
+      "metadata_hash": "67d99d7371e5e1410cc998112579b3ec1026cb31b563bc7a70b3fa7145689fa2",
+      "metadata_link": "https://gateway.irys.xyz/7YoC3Rpu78TqrW5HmHzLJQexZsVsu297u4yM7satzcKG",
+      "onChain": false
+    },
+    "2": {
+      "name": "FOX #2",
+      "image_hash": "567f8a02f7e44eedfbf67ca95cf31b9aa1ed151b17610fe71bd939536be4eefa",
+      "image_link": "https://gateway.irys.xyz/F5Gpm6JfezEtmSaSzcJtKKYPPtwY5QCMACKb7KjNqvhB?ext=png",
+      "metadata_hash": "439d0cf91b2194287642d0e8c1e79345c084c1c17c0fff7ec2c13ff01844ed6a",
+      "metadata_link": "https://gateway.irys.xyz/G37LAEMJG5VBjRndTUxiFzwSp2XTLEjHdph8nRs5v24k",
+      "onChain": false
+    },
+    "3": {
+      "name": "FOX #3",
+      "image_hash": "297e7468b1588d0c328c5d90aac027d8f6eb9fd9dc456902acb21206f9084909",
+      "image_link": "https://gateway.irys.xyz/HX7ZwcG1ZrBRkU1tDJtQ8X14qut87eb1F1CaxVoT2xMK?ext=png",
+      "metadata_hash": "48a8bef617099f3129519a7b75345a755abef08cb570351e961abee57ef6e3f4",
+      "metadata_link": "https://gateway.irys.xyz/2K2TWHPrD4hnom5USYiREDZ9W7AUdqi3pQYBamZy54ck",
+      "onChain": false
+    },
+    "4": {
+      "name": "FOX #4",
+      "image_hash": "697b401f1fcaa3e5b063a7ab0d41147643bbcb81167291d419843123b207439c",
+      "image_link": "https://gateway.irys.xyz/29pGSFqXqC3FHuXw15QexX48Q9K2QbiWovBtCskAFZR1?ext=png",
+      "metadata_hash": "5e12f4bb48585ea5c71ba59b4507b6de1a0b4da938fb2a35b485aa5e28a424c4",
+      "metadata_link": "https://gateway.irys.xyz/FpUVQGwf8wedURKrSffPY5bGqdeQ1CNxdWVT9ruDy2BD",
+      "onChain": false
+    },
+    "5": {
+      "name": "FOX #5",
+      "image_hash": "7590ff782a1cc891fd943a4cf79cc1e74cbcf8ce8f0dd0e81e5568e04b22e110",
+      "image_link": "https://gateway.irys.xyz/EV8SrKkB8WtmMxaqz5B51Y9Utg8iVJuMvhy9VkAEgMiW?ext=png",
+      "metadata_hash": "3af87767a0bed1f63548ed8ec1df8b45c21617943e96861b64380e5660e5effd",
+      "metadata_link": "https://gateway.irys.xyz/2KBHZW5KjycNKhquTbxEkFrYDY6d1kPbFRab5og418jx",
+      "onChain": false
+    },
+    "6": {
+      "name": "FOX #6",
+      "image_hash": "c2748badccf9fa8b84de0aeda6cdf1c44b8815140f80d852d15d5e8acf56bb2a",
+      "image_link": "https://gateway.irys.xyz/HwzxpuceSHkrbJTkjc6ir8TQ1znucWxZkpZL2oJzQXfY?ext=png",
+      "metadata_hash": "02595c75c8969adca6a34a666c93b194f3b7173eadc4f1d8449e309583c94c22",
+      "metadata_link": "https://gateway.irys.xyz/DpkFBvhPCizVkeiz4NaUPDatpCCdcMgNYdaKJ8Cn3CNo",
+      "onChain": false
+    },
+    "7": {
+      "name": "FOX #7",
+      "image_hash": "68f447680c546293c94eff6cfc9d7d049644daba75b7cb9b2b45045672789751",
+      "image_link": "https://gateway.irys.xyz/2ZE8SPRJCdLmE1kkp9xmL3wzwxyJLAu6UditNb7kRBMg?ext=png",
+      "metadata_hash": "d2ed362f56420d114c6bb1119046a0c1eca60d05262e541170f604cdec38e2e6",
+      "metadata_link": "https://gateway.irys.xyz/4fKKG9BMwTLc25uAhbr7tBq4MPu3Q6KdYKVey11RUzuC",
+      "onChain": false
+    },
+    "8": {
+      "name": "FOX #8",
+      "image_hash": "6c2012321ff68c945d2d488ea4c9441ad26ea6afde47ca0d1457fa6c5affd6f7",
+      "image_link": "https://gateway.irys.xyz/4dTMV5dPa23wDBESmNbyGiJWhXv2tqgNofoF6EN5Py35?ext=png",
+      "metadata_hash": "248b01b3b4d67e5066408bf262d5422c0b21e4bb41e6c4423bac546b7629e2a4",
+      "metadata_link": "https://gateway.irys.xyz/CXw6WhEYrjEKh48T7dUjkgehELfn5WMwC91Fd3n2YRhV",
+      "onChain": false
+    },
+    "9": {
+      "name": "FOX #9",
+      "image_hash": "a77904e594f78853946c55d538d83e20120b06096bdffc8dbad8f720d9a2ee1d",
+      "image_link": "https://gateway.irys.xyz/AK2gef1RWiPsNMSMkh6uPkpSFbYQG3CKx7srf7Zti7pN?ext=png",
+      "metadata_hash": "71d097371563379abd33dd32ca67d23a4dce9916704954d41e65b3bcd98136c6",
+      "metadata_link": "https://gateway.irys.xyz/DzRdtNJPesPw2nEkZxnBd6JEB4YwAWSCKtU5R7q18C9e",
+      "onChain": false
+    },
+    "10": {
+      "name": "FOX #10",
+      "image_hash": "aaf54b48fe0599a790cec6317c75f403fad1f54c214b176b72331ea02e334881",
+      "image_link": "https://gateway.irys.xyz/GVoUGMKgygjkP3LVNEoaoxQj25RLMf9nPpDhRAmB7zJB?ext=png",
+      "metadata_hash": "28ba58e1e5bcf39bae918ed26fd94bfb9fe0a95f73a0f86f3a3e80b601f101e3",
+      "metadata_link": "https://gateway.irys.xyz/EBRJm4a6GhtbfUNReFa9tNu65bvVZzNGvDbTDGhWh7z8",
+      "onChain": false
+    },
+    "11": {
+      "name": "FOX #11",
+      "image_hash": "3d368e27bb8da9f1daeb2fa8d6c580def566c395e6f8805c0dac23dd507c9c7f",
+      "image_link": "https://gateway.irys.xyz/EWjf7wpbqYaeRZokSpz3LUCiDhAEMieTscboQcaoiEH8?ext=png",
+      "metadata_hash": "8a2388cee6427acc5919a0755b316c872a2c60284c27b2954560543ce59e3c45",
+      "metadata_link": "https://gateway.irys.xyz/ACcLjCSCfUaGLn7FbyYQFE9wg1XjrP9JCLt7PNsGjzbY",
+      "onChain": false
+    },
+    "12": {
+      "name": "FOX #12",
+      "image_hash": "1a754704124384af9f6d12801313d7351efdc58339829494287d2d9c84cd9ddf",
+      "image_link": "https://gateway.irys.xyz/GLgxRu9WhasCrDKXVabMAHWQsoTM5C12fURb2U8CqDFR?ext=png",
+      "metadata_hash": "161e723a7ae46ff20f761a63d32d8868db914e451fce2a8145f6d8b7b7054870",
+      "metadata_link": "https://gateway.irys.xyz/2PK4MTcSgYUNSPUpwEDEHGxJ9jnhetXZoZnb5kzwcSFA",
+      "onChain": false
+    },
+    "13": {
+      "name": "FOX #13",
+      "image_hash": "4b55ee6ab00746da222f6af327751e2b5c79bedec288e16d13dabad6242aaca3",
+      "image_link": "https://gateway.irys.xyz/6XtwbPncPJZc9LTfNWN2jEETuz2LVfbTs1eWd6jPSmGt?ext=png",
+      "metadata_hash": "9f15c94faa460649664d6e783f25891aab95f511a6f888426fd17d5b3d2b3a01",
+      "metadata_link": "https://gateway.irys.xyz/71L3vVHgMHyy4BhFcCZPE9qsXWQZS4etfznoYoeanCKf",
+      "onChain": false
+    },
+    "14": {
+      "name": "FOX #14",
+      "image_hash": "53f41414b775312fa2138367d413ce1c307b2df0b9b83e05b8e7e5d81eb160a4",
+      "image_link": "https://gateway.irys.xyz/BU2Wn3ZodAx5GsutSKabbgcWRX13emY4zNQrchBcnrKW?ext=png",
+      "metadata_hash": "ff0d13dc05dca1e8d7b591a5f1b2f17ff18b2a6d28aa7eda59ee7c62095f9f4f",
+      "metadata_link": "https://gateway.irys.xyz/ECQB1dWi3qt1r9ogKeEBLYvBoxx43ZQigoK2Eegjg8xU",
+      "onChain": false
+    },
+    "15": {
+      "name": "FOX #15",
+      "image_hash": "37510d62305217b9c2f8499052dae5f8bb8d541e9834551307bc0e6c32514b8c",
+      "image_link": "https://gateway.irys.xyz/7hsjpUPR7HNnDMwvHVKP1eqrnpqt3gATHXmZD5d6SPzE?ext=png",
+      "metadata_hash": "908414c35a8b201ed1a07f1cf100d0b83b01f7f3790fe8f072901c044241a920",
+      "metadata_link": "https://gateway.irys.xyz/4gPVajGSJtfoznZTUUDtXViwWheKwhnyM3PrvUaRppmh",
+      "onChain": false
+    }
+  }
+}
